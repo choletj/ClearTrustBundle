@@ -1,5 +1,5 @@
 {
-    "name": "ac-toulouse/clear-trust-bundle",
+    "name": "ac-rouen/clear-trust-bundle",
     "type": "symfony-bundle",
     "description": "RSA ClearTrust authentication",
     "keywords": ["RSA", "ClearTrust", "Symfony2", "Authentication"],
