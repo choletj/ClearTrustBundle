@@ -12,11 +12,10 @@
     ],
     "require": {
         "php": ">=5.3.9",
-        "symfony/symfony": ">=2.7.0"
+        "symfony/symfony": "~2.8"
     },
     "autoload": {
         "psr-0": { "AcToulouse\\ClearTrustBundle": "" }
     },
     "target-dir": "AcToulouse/ClearTrustBundle"
-
 }
